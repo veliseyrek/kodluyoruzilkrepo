@@ -1,0 +1,87 @@
+#google{
+    margin-left: 780px;
+    text-align: center;
+}
+#googlesearch{
+    text-align: center;
+    background-color: rgb(202, 202, 202);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#search{
+    margin-bottom: 0;
+}
+
+#text{
+    width: 300px;
+    margin-top: 0;
+}
+#container1{
+    display: flex;
+}
+#googlesearch1{
+    text-align: center;
+    background-color: rgb(143, 238, 230);
+    margin-left: 100px;
+    width: 630px;
+    display: inline;
+}
+#googlesearch2{
+    text-align: center;
+    background-color: rgb(73, 211, 199);
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 300px;
+    size: 10px;
+}
+#googlesearch3{
+    text-align: center;
+    background-color: rgb(16, 192, 177);
+    margin-right: 100px;
+    width: 800px;
+}
+#p1{
+    margin-bottom: 0;
+}
+
+#u3{
+    color: blue;
+}
+
+#u2{
+    color: blue;
+}
+#u10{
+    color: blue;
+}
+#u8{
+   margin-bottom: 0;
+   font-size: 12px;
+}
+
+#u9{
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 12px;
+}
+
+
+#u4{
+    color: blue;
+    font-size: 12px;
+}
+
+
+#u5{
+    color: blue;
+    font-size: 12px;
+}
+
+#u6{
+    font-size: 12px;
+}
+
+#u7{
+    color: blue;
+    font-size: 12px;
+}
